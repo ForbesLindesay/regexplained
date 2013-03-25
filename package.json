@@ -1,0 +1,29 @@
+{
+  "name": "regexplained",
+  "version": "1.0.0",
+  "description": "The module for rendering diagrams on regexplained.co.uk",
+  "main": "index.js",
+  "dependencies": {
+    "raphael": "~2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/regexplained.git"
+  },
+  "keywords": [
+    "regexp",
+    "regular",
+    "expression",
+    "diagram",
+    "svg",
+    "regexper"
+  ],
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b8eaf0ee456a0b2a2aef7af0167ca2d92d05384c"
+}
