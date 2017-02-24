@@ -1,5 +1,7 @@
 # regexplained
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/regexplained.svg)](https://greenkeeper.io/)
+
 The module for rendering diagrams on regexplained.co.uk
 
 This module is designed to work on the client side in browserify.  If anyone can submit a pull request that makes this work in node.js as well (with decent cross platform support) I'll gladly accept it.
