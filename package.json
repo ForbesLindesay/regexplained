@@ -4,7 +4,7 @@
   "description": "The module for rendering diagrams on regexplained.co.uk",
   "main": "index.js",
   "dependencies": {
-    "raphael": "~2.1.0"
+    "raphael": "~2.2.7"
   },
   "devDependencies": {},
   "scripts": {
